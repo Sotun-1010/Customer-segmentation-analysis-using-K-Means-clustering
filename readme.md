@@ -20,7 +20,7 @@ In this project, I built a customer segmentation analysis using K-Means clusteri
 3. Cluster Analysis: I analyzed the clusters to identify the characteristics of each group.
 4. Customer Segmentation: I used the cluster analysis to segment the customers into different groups based on their characteristics.
 
-The final output of the project is a customer segmentation analysis dashboard using Plotly and Dash. The dashboard allows users to explore the clusters and identify how the customers are segmented based on their characteristics of each group. You can find the app here.
+The final output of the project is a customer segmentation analysis dashboard using Plotly and Dash. The dashboard allows users to explore the clusters and identify how the customers are segmented based on their characteristics of each group. You can find the [live app here](https://dash-app-for-customer-segmentation.onrender.com).
 
 ## Tools
 
